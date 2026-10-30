@@ -1,0 +1,5 @@
+def print_hi(n, symbol):
+    for i in range(n):
+        print(symbol, end="")
+
+print_hi(5, "*")
